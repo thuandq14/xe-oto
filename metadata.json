@@ -1,0 +1,8 @@
+{
+  "name": "AutoElite",
+  "description": "Nền tảng mua bán xe hơi cao cấp với trải nghiệm mượt mà và trợ lý ảo AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
